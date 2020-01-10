@@ -1,0 +1,7 @@
+{
+  "name": "rudak/oznews",
+  "description": "Gestion basique des actualités",
+  "require": {
+    "php": "^7.1"
+  }
+}
