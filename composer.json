@@ -10,6 +10,6 @@
     "psr-4": {
       "Oz\\News\\": ""
     }
-  }
-
+  },
+  "minimum-stability": "stable"
 }
