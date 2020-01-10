@@ -1,7 +1,15 @@
 {
   "name": "rudak/oznews",
   "description": "Gestion basique des actualités",
+  "type": "symfony-bundle",
   "require": {
     "php": "^7.1"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Oz\\News\\": ""
+    }
   }
+
 }
